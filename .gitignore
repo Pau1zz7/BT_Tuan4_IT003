@@ -1,0 +1,22 @@
+File dữ liệu lớn — không đẩy lên GitHub
+data/
+*.txt
+!README.md
+!requirements.txt
+
+File build
+*.exe
+*.obj
+*.pdb
+*.ilk
+Debug/
+Release/
+x64/
+.vs/
+
+File tạm
+*.tmp
+*.log
+Thumbs.db
+.DS_Store
+
