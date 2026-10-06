@@ -20,37 +20,21 @@ So sánh thời gian thực thi 4 thuật toán sắp xếp:
 
 
 
-Trên bộ dữ liệu gồm 10 dãy, mỗi dãy 1.000.000 số thực.
-
+Trên bộ dữ liệu gồm 10 dãy, mỗi dãy 1.000.000 số thực:
+https://drive.google.com/file/d/1nWzzsJ8fb54OL_ML4-SQaOkpXLILcY5r/view?usp=sharing
 
 
 Cách chạy
 
 
 
-1\. Sinh dữ liệu
-
-bash
-
-g++ -O2 -std=c++17 src/generate\_data.cpp -o generate\_data
-
-./generate\_data
+1\. Sinh dữ liệu từ chương trình hoặc sử dụng đường dẫn
 
 2\. Chạy từng thuật toán
-
-bash
-
-g++ -O2 -std=c++17 src/quicksort.cpp -o quicksort
-
-./quicksort
-
-\# (tương tự cho heapsort, mergesort, stl\_sort)
 
 3\. Xem kết quả
 
 Mở file csv trong MaNguon
-
-
 
 Kết quả tóm tắt
 
