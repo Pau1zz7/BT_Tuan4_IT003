@@ -1,18 +1,12 @@
-\# Bài tập lớn: So sánh thuật toán sắp xếp
+Thực nghiệm các thuật toán sắp xếp
 
 
 
-\*\*Sinh viên:\*\* \[Họ tên - MSSV]  
+Sinh viên: \[Nguyễn Hoàng Phúc - 24521388]  
 
-\*\*Lớp:\*\* IT003.R17  
+Lớp: IT003.R17  
 
-\*\*Môn:\*\* Cấu trúc dữ liệu và Giải thuật
-
-
-
-\## Mô tả
-
-
+Mô tả
 
 So sánh thời gian thực thi 4 thuật toán sắp xếp:
 
